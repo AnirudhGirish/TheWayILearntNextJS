@@ -1,0 +1,36 @@
+{
+  "name": "updateformnv",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^4.1.2",
+    "@react-email/components": "0.0.33",
+    "bcryptjs": "^3.0.2",
+    "exceljs": "^4.4.0",
+    "js-cookie": "^3.0.5",
+    "json2csv": "^6.0.0-alpha.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.11.0",
+    "next": "15.2.0",
+    "razorpay": "^2.9.6",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "react-hook-form": "^7.54.2",
+    "resend": "^4.1.2",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "eslint": "^9",
+    "eslint-config-next": "15.2.0",
+    "react-email": "3.0.7",
+    "tailwindcss": "^4"
+  }
+}

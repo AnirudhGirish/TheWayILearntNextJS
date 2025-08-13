@@ -1,0 +1,77 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Fundamentals of Computer Science",
+            "slug": "https://www.youtube.com/watch?v=-AP1nNK3bRs&list=PLWPirh4EWFpF_2T13UeEgZWZHc8nHBuXp",
+            "description": "This course offers you an in-depth description of the basic workings of Computer Science.",
+            "isFeatured": true
+        },
+        {
+            "id": 2,
+            "title": "Introduction to Programming",
+            "slug": "https://www.youtube.com/watch?v=OvKCESUCWII&list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V",
+            "description": "A beginner's course in programming, covering the basics of syntax and logic.",
+            "isFeatured": false
+        },
+        {
+            "id": 3,
+            "title": "Web Development Essentials",
+            "slug": "https://www.youtube.com/watch?v=l1EssrLxt7E&list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n",
+            "description": "Learn the fundamentals of HTML, CSS, and JavaScript to create interactive web pages.",
+            "isFeatured": true
+        },
+        {
+            "id": 4,
+            "title": "Data Structures and Algorithms",
+            "slug": "https://www.youtube.com/watch?v=-D5u5HJbISc&list=PLqleLpAMfxGAf5rrWdm92WMK3-gsrxgz5",
+            "description": "A deep dive into the world of data structures and algorithms for optimizing your code.",
+            "isFeatured": false
+        },
+        {
+            "id": 5,
+            "title": "Machine Learning Basics",
+            "slug": "https://www.youtube.com/watch?v=kz184QIO4ZQ&list=PLxCzCOWd7aiEXg5BV10k9THtjnS48yI-T",
+            "description": "Explore the fundamentals of machine learning, including supervised and unsupervised learning.",
+            "isFeatured": true
+        },
+        {
+            "id": 6,
+            "title": "Mobile App Development",
+            "slug": "https://www.youtube.com/watch?v=InigFUSiPl8&list=PLu0W_9lII9aiL0kysYlfSOUgY5rNlOhUd",
+            "description": "Learn how to create mobile applications for both iOS and Android platforms.",
+            "price": 179.99,
+            "instructor": "Rachel",
+            "isFeatured": false,
+            "image": "/courses/mobile-app-development.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Cloud Computing",
+            "slug": "https://www.youtube.com/watch?v=dmGybCohHsw&list=PLxCzCOWd7aiHRHVUtR-O52MsrdUSrzuy4",
+            "description": "Gain an understanding of cloud services and how to deploy applications on the cloud.",
+            "isFeatured": false
+        },
+        {
+            "id": 8,
+            "title": "Cybersecurity Fundamentals",
+            "slug": "https://www.youtube.com/watch?v=kmJlnUfMd7I&list=PLhQjrBD2T383Cqo5I1oRrbC1EKRAKGKUE",
+            "description": "A comprehensive guide to understanding cybersecurity principles and practices.",
+            "isFeatured": true
+        },
+        {
+            "id": 9,
+            "title": "Database Management Systems",
+            "slug": "https://www.youtube.com/watch?v=OMwgGL3lHlI&list=PLBlnK6fEyqRiyryTrbKHX1Sh9luYI0dhX",
+            "description": "Learn how to design, implement, and manage databases using popular systems like MySQL and MongoDB.",
+            "isFeatured": false
+        },
+        {
+            "id": 10,
+            "title": "Artificial Intelligence",
+            "slug": "https://www.youtube.com/watch?v=kmeaG_BQZ7M&list=PLrjkTql3jnm_yol-ZK1QqPSn5YSg0NF9r",
+            "description": "Dive into AI concepts and techniques, including neural networks and natural language processing.",
+            "isFeatured": true
+        }
+    ]
+}
